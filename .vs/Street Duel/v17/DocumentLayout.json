@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\Street Duel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92336BEE-C36B-59D8-4E55-FF6FDB4D5EC2}|Assembly-CSharp.csproj|c:\\users\\dell\\downloads\\street duel\\assets\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92336BEE-C36B-59D8-4E55-FF6FDB4D5EC2}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Street Duel\\Assets\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyAttack.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Street Duel\\Assets\\EnemyAttack.cs",
+              "RelativeToolTip": "Assets\\EnemyAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:01:15.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# Unity generated - never commit these
+/Library/
+/Temp/
+/Build/
+/build1/
+/Logs/
+/obj/
+
+# Large binary assets
+*.resS
+*.so
+*.dll
+*.dylib
+*.a
+*.o
+*.sym.so
